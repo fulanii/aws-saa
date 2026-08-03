@@ -2,5 +2,7 @@
 *
 
 # Except the readme and this file
-!readme.md
 !.gitignore
+!readme.md
+!notes/
+!notes/**
