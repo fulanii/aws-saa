@@ -37,6 +37,7 @@ Each service note follows the same structure, so it stays useful as a reference 
 
 ## Table of contents
 
-1. [**AWS Accounts* & Fundamentals](aws-accounts/readme.md)
+1. [**AWS Accounts Fundamentals**](aws-accounts/readme.md)
 2. [**Cloud, Networking and Technical Fundamentals**](cloud-networking-and-technical-fundamentals/readme.md)
-3. [**IAM, Accounts and AWS Organisations**](iam-accounts-and-aws-organisations/readme.md)
+3. [**AWS Fundamentals**](aws-fundamentals/readme.md)
+4. [**IAM, Accounts and AWS Organisations**](iam-accounts-and-aws-organisations/readme.md)
