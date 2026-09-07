@@ -4,6 +4,9 @@ My working notebook for the **AWS Certified Solutions Architect – Associate (S
 
 This is not a copy of the exam guide. Every service here is written in my own words, with the parts that actually matter when you have to deploy a real Python API: what it is, when to reach for it, when it's the wrong tool, and what it costs you operationally.
 
+I'm following [Adrian Cantrill AWS Certified Solutions Architect - Associate (SAA-C03)](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03)
+
+
 ## What's in here
 
 - **Service notes** — one file per major AWS service (EC2, S3, RDS, VPC, IAM, Lambda, ECS, CloudFront, SQS/SNS, Route 53, …).
@@ -32,17 +35,9 @@ Each service note follows the same structure, so it stays useful as a reference 
 - **Anyone studying for SAA-C03** — especially if you come from a Python/Django background and want AWS explained in terms you already know.
 - **Me, later** — the reference I'll open when I'm designing something at work.
 
-## Status
+## Table of contents
 
-Work in progress — notes get added as I move through the exam domains.
-
-| Domain | Weight | Status |
-| --- | --- | --- |
-| Design Secure Architectures | 30% | ⬜ Not started |
-| Design Resilient Architectures | 26% | ⬜ Not started |
-| Design High-Performing Architectures | 24% | ⬜ Not started |
-| Design Cost-Optimized Architectures | 20% | ⬜ Not started |
-
-## Goal
-
-By the end of this: an AWS certification, a set of hands-on deployments, and a personal AWS knowledge base I'll actually use — which is worth considerably more than just passing the exam.
+1. [**AWS Accounts**](aws-accounts/readme.md)
+2. [**Cloud, Networking and Technical Fundamentals**](cloud-networking-and-technical-fundamentals/readme.md)
+3. [**AWS Fundamentals**](aws-fundamentals/readme.md)
+4. [**IAM, Accounts and AWS Organisations**](iam-accounts-and-aws-organisations/readme.md)
