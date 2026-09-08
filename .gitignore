@@ -1,8 +1,41 @@
-# Ignore everything
-*
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.pem
+credentials
+.aws/
 
-# Except the readme and this file
-!.gitignore
-!readme.md
-!notes/
-!notes/**
+# Terraform / IaC state (can contain secrets)
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+
+# Logs
+*.log
