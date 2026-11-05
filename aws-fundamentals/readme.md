@@ -13,5 +13,6 @@
 | 3 | [**EC2 (Elastic Compute Cloud)**](ec2.md) | Key facts, instance lifecycle, AMIs, connecting via SSH/RDP |
 | 4 | [**S3 (Simple Storage Service)**](s3.md) | Objects, buckets, naming rules and limits, patterns and anti-patterns |
 | 5 | [**CloudFormation**](cloudformation.md) | Templates, template sections, logical vs physical resources, stacks |
+| 6 | [**CloudWatch**](cloudwatch.md) | Metrics, logs, events, namespaces, datapoints, dimensions, alarms |
 
 Each file has its own contents list at the top, plus a **Django/FastAPI map** and **Exam notes** at the bottom.

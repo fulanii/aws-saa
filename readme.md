@@ -45,4 +45,5 @@ Each service note follows the same structure, so it stays useful as a reference 
    - [EC2 (Elastic Compute Cloud)](aws-fundamentals/ec2.md)
    - [S3 (Simple Storage Service)](aws-fundamentals/s3.md)
    - [CloudFormation](aws-fundamentals/cloudformation.md)
+   - [CloudWatch](aws-fundamentals/cloudwatch.md)
 4. [**IAM, Accounts and AWS Organisations**](iam-accounts-and-aws-organisations/readme.md)
