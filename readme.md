@@ -40,4 +40,8 @@ Each service note follows the same structure, so it stays useful as a reference 
 1. [**AWS Accounts Fundamentals**](aws-accounts/readme.md)
 2. [**Cloud, Networking and Technical Fundamentals**](cloud-networking-and-technical-fundamentals/readme.md)
 3. [**AWS Fundamentals**](aws-fundamentals/readme.md)
+   - [Global Infrastructure & Networking Zones](aws-fundamentals/global-infrastructure.md)
+   - [VPC (Virtual Private Cloud)](aws-fundamentals/vpc.md)
+   - [EC2 (Elastic Compute Cloud)](aws-fundamentals/ec2.md)
+   - [S3 (Simple Storage Service)](aws-fundamentals/s3.md)
 4. [**IAM, Accounts and AWS Organisations**](iam-accounts-and-aws-organisations/readme.md)
