@@ -46,4 +46,8 @@ Each service note follows the same structure, so it stays useful as a reference 
    - [S3 (Simple Storage Service)](aws-fundamentals/s3.md)
    - [CloudFormation](aws-fundamentals/cloudformation.md)
    - [CloudWatch](aws-fundamentals/cloudwatch.md)
+   - [Shared Responsibility Model](aws-fundamentals/shared-responsibility-model.md)
+   - [HA vs Fault Tolerance vs Disaster Recovery](aws-fundamentals/ha-ft-dr.md)
+   - [Route 53](aws-fundamentals/route53.md)
+   - [DNS Record Types](aws-fundamentals/dns-record-types.md)
 4. [**IAM, Accounts and AWS Organisations**](iam-accounts-and-aws-organisations/readme.md)
