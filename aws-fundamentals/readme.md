@@ -18,5 +18,9 @@
 | 8 | [**HA vs Fault Tolerance vs Disaster Recovery**](ha-ft-dr.md) | Definitions, uptime "nines", RPO/RTO, AWS examples, exam keywords |
 | 9 | [**Route 53**](route53.md) | Domain registration, delegation, hosted zones (public/private) |
 | 10 | [**DNS Record Types**](dns-record-types.md) | NS, A/AAAA, CNAME, MX, TXT, SOA, TTL and caching |
+| 11 | [**Cloud computing models**](models.md) | Define how much of the technology stack you manage versus what the cloud provider handles. |
+| 12 | [**DNS Basics**](dns-basics.md) | DNS hierarchy, root servers vs root zone, root hints, registry vs registrar |
+
+**Test yourself:** [Practice questions](questions.md) for the whole section, with answers hidden until you click.
 
 Each file has its own contents list at the top, plus a **Django/FastAPI map** and **Exam notes** at the bottom.

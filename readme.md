@@ -50,4 +50,7 @@ Each service note follows the same structure, so it stays useful as a reference 
    - [HA vs Fault Tolerance vs Disaster Recovery](aws-fundamentals/ha-ft-dr.md)
    - [Route 53](aws-fundamentals/route53.md)
    - [DNS Record Types](aws-fundamentals/dns-record-types.md)
+   - [Cloud computing models](aws-fundamentals/models.md)
+   - [DNS Basics](aws-fundamentals/dns-basics.md)
+   - [Practice Questions](aws-fundamentals/questions.md)
 4. [**IAM, Accounts and AWS Organisations**](iam-accounts-and-aws-organisations/readme.md)
