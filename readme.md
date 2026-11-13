@@ -55,3 +55,4 @@ Each service note follows the same structure, so it stays useful as a reference 
    - [Practice Questions](aws-fundamentals/questions.md)
 4. [**IAM, Accounts and AWS Organisations**](iam-accounts-and-aws-organisations/readme.md)
    - [IAM Identity Policies](iam-accounts-and-aws-organisations/iam-identity-policies.md)
+   - [IAM Users and ARNs](iam-accounts-and-aws-organisations/iam-users-and-arns.md)
