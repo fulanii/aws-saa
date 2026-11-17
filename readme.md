@@ -56,3 +56,8 @@ Each service note follows the same structure, so it stays useful as a reference 
 4. [**IAM, Accounts and AWS Organisations**](iam-accounts-and-aws-organisations/readme.md)
    - [IAM Identity Policies](iam-accounts-and-aws-organisations/iam-identity-policies.md)
    - [IAM Users and ARNs](iam-accounts-and-aws-organisations/iam-users-and-arns.md)
+   - [IAM Groups](iam-accounts-and-aws-organisations/iam-groups.md)
+   - [IAM Roles](iam-accounts-and-aws-organisations/iam-roles.md)
+   - [When to Use IAM Roles](iam-accounts-and-aws-organisations/when-to-use-iam-roles.md)
+   - [Service-linked Roles & PassRole](iam-accounts-and-aws-organisations/service-linked-roles-and-passrole.md)
+   - [AWS Organizations](iam-accounts-and-aws-organisations/aws-organizations.md)
